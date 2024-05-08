@@ -1,42 +1,92 @@
 [
   {
     "id": 0,
-    "name": "翻译",
-    "url": "https://www.deepl.com/zh/translator"
+    "name": "主页",
+    "url": "https://502801.xyz"
   },
   {
     "id": 1,
-    "name": "地图",
-    "url": "https://ditu.amap.com/"
+    "name": "GPT",
+    "url": "https://ghgpt.lwdd.eu.org/"
   },
-  {
+    {
     "id": 2,
-    "name": "图片",
-    "url": "https://www.pexels.com/zh-cn/"
+    "name": "GPT3.5-4.0(4很贵,少用)",
+    "url": "https://gptsbs.ccbb.free.hr/"
   },
-  {
+    {
     "id": 3,
-    "name": "云盘",
-    "url": "https://www.aliyundrive.com/drive/"
+    "name": "谷歌AI",
+    "url": "https://gemini.cfdnsjd.cloudns.org/"
   },
   {
     "id": 4,
+    "name": "GPT IPA查询",
+    "url": "https://dhwzgh.github.io/gpt-api"
+  },
+  {
+    "id": 5,
+    "name": "节点转换 前段",
+    "url": "https://sub-web.netlify.app/"
+  },
+  {
+    "id": 6,
+    "name": "后端地址",
+    "url": "https://hd.cfdnsjd.cloudns.org/sub?"
+  },
+  {
+    "id": 7,
     "name": "Cloudflare",
     "url": "https://dash.cloudflare.com/"
   },
   {
-    "id": 5,
-    "name": "邮箱",
-    "url": "https://mail.qq.com/"
+    "id": 8,
+    "name": "谷歌邮箱",
+    "url": "https://mail.google.com/mail/u/0"
   },
   {
-    "id": 6,
+    "id": 9,
     "name": "GitHub",
     "url": "https://github.com/"
   },
   {
-    "id": 7,
-    "name": "哔哩哔哩",
-    "url": "https://www.bilibili.com/"
+    "id": 10,
+    "name": "解锁新姿势",
+    "url": "https://dhwzgh.github.io/tz"
+  },
+    {
+    "id": 11,
+    "name": "反代GPT官网（免翻墙登录）",
+    "url": "https://fdgpt.lwdd.eu.org/"
+  },
+      {
+    "id": 12,
+    "name": "CDN节点订阅器(仅tls)",
+    "url": "https://dy.cfdnsjd.cloudns.org/"
+  },
+        {
+    "id": 13,
+    "name": "自定义删除CF子域名DNS记录",
+    "url": "https://zdysczymajx.zxc001.cloudns.org/"
+  },
+          {
+    "id": 13,
+    "name": "自定义新增CF子域名DNS记录",
+    "url": "https://zdyxzzymajx.zxc001.cloudns.org/"
+  },
+          {
+    "id": 14,
+    "name": "影视APP合集",
+    "url": "https://dhwzgh.github.io/ysapp/"
+  },
+          {
+    "id": 15,
+    "name": "TVBOX配置文件",
+    "url": "https://tttvvv.con.tc/tvbox/my.json"
+  },
+          {
+    "id": 16,
+    "name": "图库",
+    "url": "https://www.tuku.cloudns.ch/"
   }
 ]

@@ -88,5 +88,10 @@
     "id": 16,
     "name": "图库",
     "url": "https://www.tuku.cloudns.ch/"
+  },
+            {
+    "id": 17,
+    "name": "临时邮箱",
+    "url": "https://webmail.sdjq.eu.org/"
   }
 ]

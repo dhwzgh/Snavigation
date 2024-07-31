@@ -7,7 +7,7 @@
   {
     "id": 1,
     "name": "GPT",
-    "url": "https://ghgpt.lwdd.eu.org/"
+    "url": "https://gpt999@eu.org"
   },
     {
     "id": 2,
@@ -93,5 +93,10 @@
     "id": 17,
     "name": "临时邮箱",
     "url": "https://webmail.sdjq.eu.org/"
+  },
+             {
+    "id": 18,
+    "name": "临时邮箱",
+    "url": "https://ys.zbzb.free.hr/"
   }
 ]

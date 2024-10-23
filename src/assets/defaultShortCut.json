@@ -86,31 +86,36 @@
   },
   {
     "id": 16,
-    "name": "图库",
+    "name": "图库(Cloudflare-TG)",
     "url": "https://www.cftuku.us.kg/"
   },
   {
     "id": 17,
+    "name": "图库(serv00)",
+    "url": "https://stk.sdjq.eu.org/"
+  },
+  {
+    "id": 18,
     "name": "临时邮箱",
     "url": "https://webmail.sdjq.eu.org/"
   },
   {
-    "id": 18,
+    "id": 19,
     "name": "影视网站",
     "url": "https://ys.yyss.cloudns.ch/"
   },
   {
-    "id": 19,
+    "id": 20,
     "name": "笔记本",
     "url": "https://memos.sdjq.eu.org/"
   },
     {
-      "id": 20,
+      "id": 212,
     "name": "在线文档",
     "url": "https://wdmm.zzcc.cloudns.org/"
   },
     {
-      "id": 21,
+      "id": 22,
     "name": "在线聚合DNS管理系统",
     "url": "https://gongym.us.kg/"
   }

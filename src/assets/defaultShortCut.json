@@ -118,5 +118,10 @@
       "id": 22,
     "name": "在线聚合DNS管理系统",
     "url": "https://gongym.us.kg/"
-  }
+  },
+    {
+      "id": 23,
+    "name": "SSH_web",
+    "url": "https://ssh.sdjq.eu.org/"
+  }  
 ]

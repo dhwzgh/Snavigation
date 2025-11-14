@@ -61,9 +61,9 @@
   },
   {
     "id": 12,
-    "name": "CDN节点订阅器(仅tls)",
-    "url": "https://dy.cfdnsjd.cloudns.org/"
-  },
+    "name": "CF优选订阅器+jd-v2",
+    "url": "https://dyq-v2.121810.xyz/admin"
+  },   
   {
     "id": 13,
     "name": "自定义删除CF子域名DNS记录",
@@ -128,14 +128,9 @@
     "id": 25,
     "name": "SSH_web",
     "url": "https://webssh.121810.xyz"
-  },  
-    {
-    "id": 26,
-    "name": "CF优选-v2",
-    "url": "https://dyq-v2.121810.xyz/admin"
   },    
     {
-    "id": 27,
+    "id": 26,
     "name": "panel",
     "url": "https://panel.121810.xyz/"
   }    

@@ -128,9 +128,14 @@
     "id": 25,
     "name": "SSH_web",
     "url": "https://webssh.121810.xyz"
-  },    
+  },  
     {
     "id": 26,
+    "name": "小火箭账号网站",
+    "url": "https://xhj.zzmm.qzz.io/"
+  }, 
+    {
+    "id": 27,
     "name": "panel",
     "url": "https://panel.121810.xyz/"
   }    

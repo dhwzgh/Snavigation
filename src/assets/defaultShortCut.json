@@ -127,7 +127,7 @@
     {
     "id": 25,
     "name": "SSH_web",
-    "url": "https://webssh.121810.xyz"
+    "url": "https://koyeb-sshweb.121810.xyz/"
   },  
     {
     "id": 26,
@@ -139,8 +139,13 @@
     "name": "抖音视频下载",
     "url": "https://douyin.121810.xyz"
   }, 
-    {
+     {
     "id": 28,
+    "name": "免费抖+",
+    "url": "https://doujia.121810.xyz/"
+  },
+    {
+    "id": 29,
     "name": "panel",
     "url": "https://panel.121810.xyz/"
   }    

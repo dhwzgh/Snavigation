@@ -144,8 +144,13 @@
     "name": "免费抖+",
     "url": "https://doujia.121810.xyz/"
   },
-    {
+       {
     "id": 29,
+    "name": "Sub_Store",
+    "url": "https://sub.121810.xyz/"
+  },
+    {
+    "id": 30,
     "name": "panel",
     "url": "https://panel.121810.xyz/"
   }    
